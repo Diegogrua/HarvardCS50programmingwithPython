@@ -1,0 +1,10 @@
+{
+
+    "python.autoComplete.extraPaths": [
+
+
+
+    ],
+    "gitdoc.enabled": true,
+    "python.analysis.extraPaths": []
+}
